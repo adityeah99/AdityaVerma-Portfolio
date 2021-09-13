@@ -1,6 +1,6 @@
 #MY PORTFOLIO
 
-Hey!This is Aditya Verma. This is my first portfolio. 
+Hey!This is aditya! Verma. This is my first portfolio. 
 
 In this we learn about Git, VS, HTML, CSS. 
 
